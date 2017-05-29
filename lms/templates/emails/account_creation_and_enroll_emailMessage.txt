@@ -1,0 +1,12 @@
+${"Добро пожаловать на курс &#171;{course_name}&#187;".format(course_name=course.display_name_with_default_escaped)}
+
+${"Чтобы начать обучение, перейдите на https://{site_name}. Информация для входа:".format(site_name=site_name)}
+
+${"email: {email}".format(email=email_address)}
+${"пароль: {password}".format(password=password)}
+
+${"Рекомендуем сменить пароль"}
+
+${"С уважением"
+""
+"Команда курса &#171;{course_name}&#187;".format(course_name=course.display_name_with_default_escaped)}
