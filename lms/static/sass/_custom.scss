@@ -1,0 +1,19 @@
+.home {
+    header {
+        background-color: white;
+        .outer-wrpper {
+            content: none;
+            display: block;
+            .title {
+                float: none;
+                display: block;
+                box-sizing: none;
+                transition: none;
+                box-shadow: none;
+                background: #fff;
+                padding: 20px 30px;
+                min-height: 0;
+            }
+        }
+    }
+}
