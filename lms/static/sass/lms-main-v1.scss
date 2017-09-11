@@ -6,3 +6,7 @@
 @import 'build-lms-v1';
 
 @import '_custom';
+
+.wrapper-logo > p > a > img {
+    width: 50px;
+}
